@@ -207,9 +207,9 @@ def global_to_local(global_position, global_home):
 
 
 
-## Submission Requirements
+## Implementation
 
-* Filled in backyard_flyer.py
+* backyard_flyer.py contains the code following event driven programming to fly drone in a sqaure. 
 
 
 
